@@ -16,7 +16,7 @@ cd socket
 npm install
 
 # Frontend deps
-cd frontend
+cd client
 npm install
 ```
 
